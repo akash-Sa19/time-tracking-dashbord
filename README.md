@@ -31,13 +31,13 @@ Users should be able to:
 
 ### Screenshot
 
-![Click here](.images/Screenshot.png/screenshot.jpg)
+![Click here](./assets/Screenshot.png)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/akash-Sa19/time-tracking-dashbord)
+- Live Site URL: [Add live site URL here](https://akash-sa19.github.io/time-tracking-dashbord/)
 
 ## My process
 - `Mobile-First Workflow ` I designed for small screen devices first
