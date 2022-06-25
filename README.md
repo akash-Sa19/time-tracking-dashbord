@@ -36,8 +36,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/akash-Sa19/time-tracking-dashbord)
-- Live Site URL: [Add live site URL here](https://akash-sa19.github.io/time-tracking-dashbord/)
+- [Solution URl](https://github.com/akash-Sa19/time-tracking-dashbord)
+- [Live Site URL](https://akash-sa19.github.io/time-tracking-dashbord/)
 
 ## My process
 - `Mobile-First Workflow ` I designed for small screen devices first
